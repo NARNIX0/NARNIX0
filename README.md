@@ -25,7 +25,7 @@
 ### 🛠 **Tech Stack & Tools**  
 
 #### 📜 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
@@ -57,6 +57,9 @@
 
 ### 🚀 **Notable Projects & Competitions**  
 
+#### 🏆 **HackLondon 2025 Winner - LLM (Long Lasting Matches)**
+- An AI matchmaking website that creates digital personality twins and lets them interact with other LLMs to simulate the "talking stage." A separate AI then assesses compatibility & chemistry based on these interactions.
+
 #### 🕌 **Interactive Prayer & Faith Wellbeing Alexa Skill**  
 - Integrated **AWS Lambda** and **Aladhan API** for real-time prayer schedule and nearby Muslim-friendly amenities  
 
@@ -68,15 +71,6 @@
 
 #### 🔍 **Llama Impact Hackathon 2024**  
 - Created a **screen-reader-powered AI assistant** using **Python, NVDA API & CrewAI** to enable computer use without vision models  
-
----
-
-### 📈 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?narnix0=narnix0&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narnix0&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
