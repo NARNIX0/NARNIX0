@@ -11,11 +11,9 @@
 
 ### 🏆 **About Me**  
 - 🎓 **President** of the Kingston University Computing & Technology Society  
-- 📚 **BSc Computer Science** at Kingston University, on track for First Class Honours  
-- 💡 **Founder of Atlas AI** – AI-powered education platform for universities  
-- 🏆 **Multiple Hackathon Winner** – HackLondon, Llama Impact Hackathon & more  
-- 📸 **Founder of Ramen Studios** – Professional real estate photography business  
-- ⚡ **AI Engineer Contractor & MVP Builder** – Helping startups nail down technical fundamentals  
+- 📚 **BSc Computer Science** at Kingston University
+- 💡 **Startup Consultant** | Helping founders set up MVPs & define their tech stack 
+- ⚡ **AI Engineer Contractor** – Helping companies integrate AI solutions
 - 🍰 Baking, 📷 Photography, 🥋 Jiu-Jitsu, & 🖨️ 3D Printing enthusiast  
 - 🌍 Frequent traveler – London, SF (my second home), & spontaneous Euro trips  
 - 🤝 Always open to collaborations, contracts, and exciting new opportunities  
