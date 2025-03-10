@@ -1,7 +1,5 @@
-## Hey There, I'm Ramen 👋
-
 <h1 align="center">Hey there, I'm Abdurrahman Alsharef 👋</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Abdurrahman+Alsharef)](https://git.io/typing-svg)
 <p align="center">
 🚀 AI Engineer | Full-Stack Developer | Founder | Hackathon Winner  
 📍 London & San Francisco | 🌍 Open to Opportunities | ✈️ Always on the Move  
