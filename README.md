@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Abdurrahman Alsharef 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there+Im+Abdurrahman+Alsharef)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=129A10&width=435&lines=Hey+there%F0%9F%96%90%EF%B8%8F%2C+I'm+Abdurrahman+Alsharef)](https://git.io/typing-svg)
 <p align="center">
 🚀 AI Engineer | Full-Stack Developer | Founder | Hackathon Winner  
 📍 London & San Francisco | 🌍 Open to Opportunities | ✈️ Always on the Move  
