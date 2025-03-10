@@ -74,8 +74,8 @@
 ### 📈 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?narnix0=Ramen&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramen&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?narnix0=narnix0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narnix0&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
