@@ -82,4 +82,4 @@
 
 
 
-🚀 _Always open to exciting projects, collaborations, and spontaneous adventures!_
+## 🚀 _Always open to exciting projects, collaborations, and spontaneous adventures!_
