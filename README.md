@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Welcome to my GitHub page</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 
 <p align="center">
 🚀 AI Engineer | Full-Stack Developer | Founder | Hackathon Winner  
