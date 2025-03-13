@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to my GitHub page</h1>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=129A10&width=435&lines=Hey+there%F0%9F%96%90%EF%B8%8F%2C+I'm+Ramen)](your-link-here)
 
 </div>
+
+<h1 align="center">Welcome to my GitHub page</h1>
 
 <p align="center">
 🚀 AI Engineer | Full-Stack Developer | Founder | Hackathon Winner  
