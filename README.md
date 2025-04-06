@@ -26,10 +26,6 @@
 
 ## 🛠 **Tech Stack & Tools**  
 
-#### 😴 **Vibe Coding Stack** 
-[![Cursor](https://img.shields.io/badge/-Cursor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://www.cursor.so/)  [![Lovable](https://img.shields.io/badge/-Lovable-FF0000?style=flat&logo=love&logoColor=white)](https://www.lovable.ai/) [![Bolt](https://img.shields.io/badge/-Bolt-000000?style=flat&logo=bolt&logoColor=white)](https://www.bolt.com/) [![Replit Agent](https://img.shields.io/badge/-Replit_Agent-F26207?style=flat&logo=replit&logoColor=white)](https://replit.com/)
-
-
 
 #### 📜 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
