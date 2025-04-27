@@ -7,16 +7,16 @@
 <h1 align="center">Welcome to my GitHub</h1>
 
 <p align="center">
-🚀 AI Engineer | Full-Stack Developer | Founder | Hackathon Winner  
+🚀 AI Engineer | Full-Stack Developer | Founder | Multiple Time Hackathon Winner  
 📍 London & San Francisco | 🌍 Open to Opportunities | ✈️ Always on the Move  
 </p>
 
 ---
 
 ### 🏆 **About Me**  
-- 🎓 **President** of the Kingston University Computing & Technology Society  
+- 🎓 **President** of the Computing & Technology Society (Planning hackathon for Sep 2025) 
 - 📚 **BSc Computer Science** at Kingston University
-- 💡 **Startup Consultant** | Helping founders set up MVPs & define their tech stack 
+- 💡 **Startup Consultant** | Helping founders set up MVPs & define their tech stack (Built 4 MVPs and counting!)
 - ⚡ **AI Engineer Contractor** – Helping companies integrate AI solutions
 - 🍰 Baking, 📷 Photography, 🥋 Jiu-Jitsu, & 🖨️ 3D Printing enthusiast  
 - 🌍 Frequent traveler – London, SF (my second home), & spontaneous Euro trips  
